@@ -1,11 +1,32 @@
 Danny's Site To Do's:
 
 1. Get fresh copy of template and instead of deleting sections, 
-comment them out so that the javascript doesn't act up.
+comment them out so that the javascript doesn't act up. x
 
-2. Fix Navigation links and anchors.
+2. Fix Navigation links and anchors. x
 
 3. Remove social media links.
 
 4. Have danny purchase a domain name and I'll set up free hosting for him on github.
 
+5. Get rid of black background and replace with a variation of gray.
+
+6. Put in a photo carosel.
+
+7. Ask Danny if he want’s a newsletter set up. If not, comment out the code.
+
+8. link up buttons to paypal.
+
+9. set up paypal.
+
+
+
+
+——
+
+Finished files should only include:
+
+Images
+assets folder
+404.html
+and version1.html Set up in a folder and host for live example for Danny.

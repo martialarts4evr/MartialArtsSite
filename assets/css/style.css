@@ -5901,9 +5901,9 @@ nav.navbar {
   display: block;
   width: 100%;
 }
-.ct-mediaSection.ct-mediaSection--noCovert[data-stellar-background-ratio] {
+/*.ct-mediaSection.ct-mediaSection--noCovert[data-stellar-background-ratio] {
   background-size: auto;
-}
+}*/
 [data-background] {
   background-size: cover;
   background-repeat: no-repeat;

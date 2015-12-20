@@ -12972,3 +12972,24 @@ nav.navbar-scroll-top {
     margin-top: 0;
   }
 }
+
+/* Special Additions */
+
+.bio{
+  margin-top:75px;
+  margin-bottom:75px;
+  color:white;
+
+}
+.img-bio{
+  margin-top:75px;
+  margin-right: 75px;
+}
+.bio h3{
+  color: rgb(110,0,26);
+  font-weight: bold;
+}
+
+ul {
+  margin-bottom: 5px;
+}

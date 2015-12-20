@@ -1,0 +1,4 @@
+- add new text to site
+- set up paypal shop
+- remove rss from index and 404
+- fix slideshow spacing

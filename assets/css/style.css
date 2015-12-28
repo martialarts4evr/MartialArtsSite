@@ -13006,3 +13006,13 @@ ul {
         margin-bottom:25px;
 
 }
+body{
+  font-weight: bold;
+}
+
+p{
+  font-weight: bold !important;
+}
+li {
+  font-weight: bold !important;
+}

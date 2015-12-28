@@ -12993,3 +12993,16 @@ nav.navbar-scroll-top {
 ul {
   margin-bottom: 5px;
 }
+
+/* Slideshow Images */
+.item img{
+        height:446px !important;
+        width:462px
+        max-width: 462px; //only set this if using Twitter Bootstrap
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:25px;
+        margin-bottom:25px;
+
+}

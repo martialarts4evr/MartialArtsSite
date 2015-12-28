@@ -1,4 +1,10 @@
-- add new text to site
-- set up paypal shop
+- Pseudolink join class buttons to ordering section
 - remove rss from index and 404
-- fix slideshow spacing
+- link newspaper & facebook images to facebook.
+- link order buttons to paypal shop
+
+
+——
+Danny To Do’s: 
+- set up paypal shop
+- order tockify & domain name (Not til we are finished).

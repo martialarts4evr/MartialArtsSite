@@ -1,10 +1,61 @@
 - Pseudolink join class buttons to ordering section
-- remove rss from index and 404
-- link newspaper & facebook images to facebook.
 - link order buttons to paypal shop
+- change main image
+- change slogan to Warriors Path and remove button
+- change ordering section to: We offer On Line Training, Seminars, Classes and Private Lessons.
+- Change slideshow slogan to: Study past-train in the present-prepare for the future.
+- Also please take out the columns where it says NAWA and Antrim ISF with the links to pay and the center where it says In Person Training ECT
+
+Please put this instead in the area:
+
+Offering On Line Training in the following systems
+
+Cheyenne Notaxeme(Warrior) Arts
+-Lance
+-Shield
+-Knife
+-Bow and Arrow
+-War Club / Tomahawk
+-Riffle
+-Wrestling
+-Empty Hand Strikes
+-History
+
+Apache Black Knife Nagondzog
+- Knife Fighting
+-Lance 
+-Empty Hand Tactics 
+-Stealth 
+
+Lausatok Glima 
+-Nordic Wrestling
+-Scandinavian Self Defense 
+-Viking Weapons study
+
+Irish Stick Fighting Antrim Style
+-Bata / Cane
+-Pugilism and Kicking
+-Knife 
+
+Please use the NAWA logo for first 2 
+Use Glima logo for Glima and the Antrim logo for the antrim
+
+
+- hours section since I have no location yet:)
+here is my email for contact info
+hoskins5@copper.net
+here is my phone number
+(636)970-9514
+Facebook pages
+https://www.facebook.com/Hoskins5
+https://www.facebook.com/NativeaAmericanWarriorArts/?ref=hl
+https://www.facebook.com/Warriors-Path-Martial-Arts-157675367632002/?ref=hl
+https://www.facebook.com/GLIMA-USA-1408074842828620/?ref=hl
+
 
 
 ——
 Danny To Do’s: 
 - set up paypal shop
 - order tockify & domain name (Not til we are finished).
+
